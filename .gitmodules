@@ -1,0 +1,18 @@
+[submodule "nestjs-nextjs-starter"]
+	path = nestjs-nextjs-starter
+	url = https://github.com/mst-ghi/nestjs-nextjs-starter
+[submodule "nestjs-pubsub"]
+	path = nestjs-pubsub
+	url = https://github.com/mst-ghi/nestjs-pubsub
+[submodule "nestjs-sockedis"]
+	path = nestjs-sockedis
+	url = https://github.com/mst-ghi/nestjs-sockedis
+[submodule "nestjs-toolkit"]
+	path = nestjs-toolkit
+	url = https://github.com/mst-ghi/nestjs-toolkit
+[submodule "nest-multer-liara"]
+	path = nest-multer-liara
+	url = https://github.com/mst-ghi/nest-multer-liara
+[submodule "any-english-backend"]
+	path = any-english-backend
+	url = https://github.com/mst-ghi/any-english-backend
