@@ -16,3 +16,6 @@
 [submodule "any-english-backend"]
 	path = any-english-backend
 	url = https://github.com/mst-ghi/any-english-backend
+[submodule "gym-planner-backend"]
+	path = gym-planner-backend
+	url = https://github.com/mst-ghi/gym-planner-backend

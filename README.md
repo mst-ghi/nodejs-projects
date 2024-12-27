@@ -6,6 +6,22 @@ Welcome to the Nodejs Projects Repository! This repository serves as a hub for v
 
 ## Projects
 
+### [Gym Planner Project](https://github.com/mst-ghi/gym-planner-backend)
+
+-   **Description:** Gym planner backend project. A Project for Gym Instructors & Coach.
+    Medical records, Equipments, Body Parts, Exercises, Food & Workout Program, etc...
+-   **Technical Features:**
+    -   Nestjs framework
+    -   Prisma ORM
+    -   Swagger api document
+    -   Custom JWT authentication
+    -   Custom libs
+    -   Seed data, JSON
+    -   Base response contract
+    -   Typescript
+    -   Mailing
+    -   Liara-storage support
+
 ### [Any English Project](https://github.com/mst-ghi/any-english-backend)
 
 -   **Description:** A simple nodejs project for English learner. This project contain Words, Phrases, Conversations and Lightner.
